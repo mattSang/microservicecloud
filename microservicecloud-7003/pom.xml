@@ -5,7 +5,7 @@
     <artifactId>microservicecloud</artifactId>
     <version>0.0.1-SNAPSHOT</version>
   </parent>
-  <artifactId>microservicecloud-7003</artifactId>
+  <artifactId>microservicecloud-eureka-7003</artifactId>
 
 	<dependencies>
 		<!--eureka-server服务端 -->
